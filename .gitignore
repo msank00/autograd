@@ -1,0 +1,9 @@
+autograd/*.pyc
+autograd/__pycache__
+tests/*.pyc
+tests/__pycache__
+.vscode/
+.cache/
+.mypy_cache
+.pytest_cache
+
